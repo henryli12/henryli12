@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @henryli12
-I am currently a Senior at Stony Brook University pursuing, double majoring in Computer Science and Applied Mathematics and Statistics. I was a mentor at OYOClass, helping young computer programmers to learn and create new programs. In my spare time, I like to write programs that can solve my real-life problems.
+I am currently a Senior at Stony Brook University double majoring in Computer Science and Applied Mathematics & Statistics. I was a mentor at OYOClass, helping young computer programmers to learn and create new programs. In my spare time, I like to write programs that can solve my real-life problems.
 
 <strong>Lanuages:</strong> Python, JavaScript, HTML/CSS, Java, C
 
