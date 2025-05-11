@@ -1,9 +1,5 @@
 ### 👋 Hi, I’m @henryli12
-I am currently a Senior at Stony Brook University double majoring in Computer Science and Applied Mathematics & Statistics. I was a mentor at OYOClass, helping young computer programmers to learn and create new programs. In my spare time, I like to write programs that can solve my real-life problems.
-
-<strong>Lanuages:</strong> Python, JavaScript, HTML/CSS, Java, C
-
-<strong>Career Target:</strong> Software Engineer, Web Developer, Data Scientist
+I'm a software developer at Epic Systems, where I build Clinical Decision Support tools that help clinicians make better, data-driven decisions. I work across the full stack using technologies like C#, React.js, Python, and MUMPS. My work includes UI revamps, effectiveness optimization, and analytical tools used by thousands of end-users. I’m passionate about writing clean, reliable code and creating software that solves real-world problems.
 
 <!---
 henryli12/henryli12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
